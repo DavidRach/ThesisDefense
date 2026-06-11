@@ -1,0 +1,19 @@
+---
+title: "QR Codes"
+format: html
+eval: FALSE
+---
+
+```{r}
+library(qrcode)
+```
+
+
+# QC Dashboard
+
+```{r}
+code <- qr_code("https://www.youtube.com/live/K7iae7IWS24?si=-Q5vxyuxTWBF-wRB")
+
+generate_svg(code, filename = "inkscape/announcement/ThesisLivestream.svg")
+plot(code)
+```

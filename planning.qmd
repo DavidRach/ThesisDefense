@@ -1,0 +1,25 @@
+---
+title: "Planning"
+format: html
+---
+
+## CytometryQC
+
+Planning Notes: Minimal direct connection to the plot, beyond ability to profile issues on the instrument, does not move the narrative forward when it comes to my thesis product. Would likely only do a passing reference. 
+
+
+## Luciernaga
+
+Planning Notes: Not directly tied to the "Innate-like T cell responses", beyond our ability to be able to troubleshoot the unmixing and panel issues, leading to improved resolution. Maybe as a rabbit-hole reference in attestation to Spectral Flow Cytometry being complicated. Rather than taking "it is what it is" as an answer, resolved to figure it out. What came out was an R package that (and tie into the Cyto 2026 slides at that point). 
+
+## Coereba
+
+Planning Notes: More integral to the story, given that we are actively using it throughout for the process of identifying subpopulations and retrieving the marker expression plots from the unsupervised analysis. Would spend more time here than elsewhere. 
+
+## Cord Blood Innate-Like T cells at Baseline
+
+
+## Cord Blood Innate-like T cells at Activation
+
+
+
